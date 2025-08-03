@@ -1,1 +1,3 @@
-# DevOps-day7
+
+# DevOps Day 7
+Automated Git + GitHub usage
