@@ -1,3 +1,1 @@
-
-# DevOps Day 7
-Automated Git + GitHub usage
+# DevOps Day 7 - GitHub from Git Bash
